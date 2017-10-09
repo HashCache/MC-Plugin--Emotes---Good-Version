@@ -1,0 +1,12 @@
+main: net.codexcraftmc.emotes.Main
+name: Emotes
+version: 1.0
+author: HashCache
+description: An Emotes Plugin
+commands:
+  emotes:
+    description: List emotes
+    permissions:
+           emotes.use:
+           emotes.reload:
+    permission-message: You dont have permission to use emotes.

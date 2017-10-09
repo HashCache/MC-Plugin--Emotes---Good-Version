@@ -1,0 +1,11 @@
+Emotes:
+#List the number of emotes that you have
+  numberOf: 2
+#Always make the numbers go in order here starting from 1
+  '1':
+#Make sure to put everything in the "string" and "replacewith" fields in quotes
+    trigger: '[happy]'
+    emote: "(\uff89^_^)\uff89"
+  '2':
+    trigger: '[sad]'
+    emote: (~_~;)
